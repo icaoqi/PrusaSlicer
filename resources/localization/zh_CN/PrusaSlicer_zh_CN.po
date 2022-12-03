@@ -5780,7 +5780,7 @@ msgstr "撤消桌面集成失败。"
 
 #: src/slic3r/GUI/NotificationManager.hpp:773
 msgid "Exporting."
-msgstr "出口。"
+msgstr "导出中..."
 
 #: src/slic3r/GUI/NotificationManager.cpp:664
 msgid "Open Folder."
@@ -5800,7 +5800,7 @@ msgstr "取消"
 
 #: src/slic3r/GUI/NotificationManager.cpp:895
 msgid "COMPLETED"
-msgstr "完整的"
+msgstr "已完成"
 
 #: src/slic3r/GUI/NotificationManager.cpp:937
 msgid "Cancel upload"
@@ -5838,7 +5838,7 @@ msgstr[0] "%1$d物体装载了部分下沉。"
 
 #: src/slic3r/GUI/NotificationManager.cpp:1113
 msgid "Slicing finished."
-msgstr "切片完成了。"
+msgstr "切片已完成。"
 
 #: src/slic3r/GUI/NotificationManager.cpp:1113
 msgid "Export G-Code."
@@ -5860,7 +5860,7 @@ msgstr "警告:"
 
 #: src/slic3r/GUI/NotificationManager.cpp:1598
 msgid "Exporting finished."
-msgstr "导出完成。"
+msgstr "导出已完成。"
 
 #: src/slic3r/GUI/ObjectDataViewModel.cpp:50
 msgid "Paint-on seam"
@@ -5898,7 +5898,7 @@ msgstr ""
 
 #: src/slic3r/GUI/OpenGLManager.cpp:260
 msgid "You may need to update your graphics card driver."
-msgstr "您可能需要更新图形卡驱动程序。"
+msgstr "您可能需要更新显卡驱动程序。"
 
 #: src/slic3r/GUI/OpenGLManager.cpp:263
 msgid "As a workaround, you may run PrusaSlicer with a software rendered 3D graphics by running prusa-slicer.exe with the --sw-renderer parameter."
